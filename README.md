@@ -53,7 +53,7 @@ Cada placa mestra comanda **duas equipes** que jogam ao mesmo tempo:
 3. As duas equipes repetem a sequência ao mesmo tempo, apertando os botões das suas placas.
 4. A mestra confere cada toque: um bipe agudo indica acerto, e um bipe grave indica erro.
 
-### Regras de resultado (como pênaltis alternados)
+### Regras de resultado 
 
 | Equipe 1 | Equipe 2 | O que acontece |
 |---|---|---|
