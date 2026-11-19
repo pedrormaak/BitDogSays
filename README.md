@@ -122,6 +122,8 @@ COR_BOTAO_B = "AMARELO"     # jogador 1: "AZUL"     | jogador 2: "AMARELO"
 
 ## Equipe
 
-- *(nomes dos integrantes)*
+- Pedro Ataide
+- Tiago Dias
+- Felipe Yamada
 
 Disciplina EX028 · Unicamp
