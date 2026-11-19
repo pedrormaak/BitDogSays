@@ -70,7 +70,7 @@ O **botão B da mestra** reinicia o jogo a qualquer momento.
 
 ## Como as placas conversam
 
-![Como as placas conversam]
+
 
 - A mestra funciona como **ponto de acesso Wi-Fi** (como um roteador) e cria a rede `SIMON_LAB_1` ou `SIMON_LAB_2`, com IP `192.168.4.1`.
 - As secundárias se conectam a essa rede. Enquanto procuram, a matriz pisca em branco.
