@@ -12,7 +12,7 @@
 5. **Apresentação do BitDog Says:** regras, duplas e cores de cada jogador.
 6. **Partidas:** as turmas jogam em duplas, com duas arenas ao mesmo tempo, formando chaves e um campeonato. Brinde eram chocolates.
 7. **Como as placas conversam:** emissão e recepção, e a transformação do padrão em bits e os bits em cor.
-8. ** Os bits no mundo real: ** como funciona a aplicação dos bits de forma quantitativa e qualitativa.
+8. **Os bits no mundo real:** como funciona a aplicação dos bits de forma quantitativa e qualitativa.
 9. **Encerramento:** perguntas e fechamento.
 
 ## Materiais de apoio
