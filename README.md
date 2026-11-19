@@ -1,4 +1,4 @@
-# BitDog Says 🐶🎮
+# BitDog Says 
 
 Jogo de memória no estilo **Genius** (*Simon Says*) feito com a placa **BitDogLab**, em que as placas conversam entre si pelo **Wi-Fi**.
 Projeto da disciplina de extensão **EX028**, apresentado em oficina para turmas do 2º ano do ensino médio.
